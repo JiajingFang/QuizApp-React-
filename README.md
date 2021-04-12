@@ -23,6 +23,6 @@ can also use yarn build to build it
 ```shell
 yarn start
 ```
-![](https://github.com/JiajingFang/QuizApp-React-/tree/master/image/1.png)  
-![](https://github.com/JiajingFang/QuizApp-React-/tree/master/image/2.png)  
-![](https://github.com/JiajingFang/QuizApp-React-/tree/master/image/3.png)  
+![](https://github.com/JiajingFang/QuizApp-React-/blob/master/image/1.png)  
+![](https://github.com/JiajingFang/QuizApp-React-/blob/master/image/2.png)  
+![](https://github.com/JiajingFang/QuizApp-React-/blob/master/image/3.png)  
