@@ -18,7 +18,7 @@ yarn install
 3.modify App.css and App.js for our need<br>
 ## develop in Exam folder
 It is in src folder
-##how to run
+## how to run
 ```shell
 yarn start
 ```
