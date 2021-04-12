@@ -17,3 +17,11 @@ yarn install
 3.modify App.css and App.js for our need<br>
 ## develop in Exam folder
 It is in src/
+##how to run
+can also use yarn build to build it
+```shell
+yarn start
+```
+![](https://github.com/JiajingFang/ReinforcementLearning/blob/main/image/Q_learning_formular.jpg)  
+![](https://github.com/JiajingFang/ReinforcementLearning/blob/main/image/Q_learning_formular.jpg)  
+![](https://github.com/JiajingFang/ReinforcementLearning/blob/main/image/Q_learning_formular.jpg)  
