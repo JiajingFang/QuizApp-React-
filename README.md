@@ -8,6 +8,7 @@ npm install --g create-react-app
 npm install --g yarn
 create-react-app react-exam
 ```
+then a node_module/ will be gained which should be put in this working folder to use it(I ignored it in git)
 ## modify template
 1.add dependencies in package.json<br>
 ```shell
@@ -22,6 +23,6 @@ can also use yarn build to build it
 ```shell
 yarn start
 ```
-![](https://github.com/JiajingFang/ReinforcementLearning/blob/main/image/Q_learning_formular.jpg)  
-![](https://github.com/JiajingFang/ReinforcementLearning/blob/main/image/Q_learning_formular.jpg)  
-![](https://github.com/JiajingFang/ReinforcementLearning/blob/main/image/Q_learning_formular.jpg)  
+![](https://github.com/JiajingFang/QuizApp-React-/tree/master/image/1.png)  
+![](https://github.com/JiajingFang/QuizApp-React-/tree/master/image/2.png)  
+![](https://github.com/JiajingFang/QuizApp-React-/tree/master/image/3.png)  
